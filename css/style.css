@@ -121,3 +121,10 @@ font-weight: var(--fw-bold);
   margin-top: 16px;
 }
 
+/* media querie */
+@media (max-width: 375px) {
+  .container__boxQr {
+    margin-left: 27.5px;
+    margin-right: 27.5px;
+  }
+}
